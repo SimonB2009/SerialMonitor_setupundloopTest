@@ -1,2 +1,2 @@
 # SerialMonitor_setupundloopTest
-Simple Software to run on an Arduino Uno to find out was loop and setup is. 
+Simple Software to run on an Arduino Uno to see what the loop and setup function stand for. 
